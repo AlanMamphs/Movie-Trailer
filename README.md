@@ -33,7 +33,3 @@ The main contributor of this project is Udacity. Visit [Programming Foundations 
 ## Resources
 
 You can download freshtomatoes python starter code [here](https://github.com/adarsh0806/ud036_StarterCode/blob/master/fresh_tomatoes.py.).
-
-## License
-
-Udacity 
